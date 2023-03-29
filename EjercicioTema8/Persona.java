@@ -2,9 +2,9 @@ package EjercicioTema8;
 
 public class Persona {
 
-    int edad;
-    String nombre;
-    int telefono;
+    private int edad;
+    private String nombre;
+    private int telefono;
 
     public Persona(){};
 
